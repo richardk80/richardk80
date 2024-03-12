@@ -1,5 +1,2 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Please+donate+with+Monero(XMR);Use+QR+code+below.+Thanks)](https://git.io/typing-svg)
-
-<img src="monero.png" height=300 width=300>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=9p6osoz4h3zp0r3jw3z0b1mxo&width=300)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=FFFFFF&background=FFFFFF00&random=false&width=435&lines=Please+donate+with+Monero(XMR);Use+QR+code+below;Every+cent+counts.+Thanks+%F0%9F%99%82)](https://git.io/typing-svg)<br />
+<img src="monero.png" height=350 width=350>
